@@ -517,6 +517,28 @@
     </div>
 
     
+    <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="/css/my-gitalk.css">
+
+<div class="card gitalk-card" data-aos="fade-up">
+    <div id="gitalk-container" class="card-content"></div>
+</div>
+
+<script src="/libs/gitalk/gitalk.min.js"></script>
+<script>
+    let gitalk = new Gitalk({
+        clientID: 'bdd500a0ea5552faf923',
+        clientSecret: 'c62ebca99921eb60e422e3670e1e774941b57198',
+        repo: 'liyugoodboy.github.io',
+        owner: 'liyugoodboy',
+        admin: "liyugoodboy",
+        id: 'about/musics/index.html',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
+
+    gitalk.render('gitalk-container');
+</script>
+    
 
     
 
