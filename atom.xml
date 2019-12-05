@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://liyugoodboy.com/"/>
-  <updated>2019-12-04T11:24:50.142Z</updated>
+  <updated>2019-12-05T08:18:14.373Z</updated>
   <id>https://liyugoodboy.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://liyugoodboy.com/2019/12/04/di-yi-pian-bo-ke/"/>
     <id>https://liyugoodboy.com/2019/12/04/di-yi-pian-bo-ke/</id>
     <published>2019-12-04T11:23:46.000Z</published>
-    <updated>2019-12-04T11:24:50.142Z</updated>
+    <updated>2019-12-05T08:18:14.373Z</updated>
     
     <summary type="html">
     
@@ -30,6 +30,7 @@
         
         
           &lt;p&gt;#第一篇博客#&lt;/p&gt;
+&lt;p&gt;##博客说明##&lt;br&gt;此博客使用的Github的page功能，加上Hexo静态系统制作的，当前状态处于刚建成。&lt;br&gt;博客文章使用的是Markdown语法编写。&lt;/p&gt;
 
         
       
