@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>李昱的博客</title>
   
-  <subtitle>liyugoodboy</subtitle>
+  <subtitle>李昱的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://liyugoodboy.com/"/>
-  <updated>2019-12-05T08:18:14.373Z</updated>
-  <id>https://liyugoodboy.com/</id>
+  <link href="https://liyugoodboy.github.io/"/>
+  <updated>2019-12-08T12:04:22.327Z</updated>
+  <id>https://liyugoodboy.github.io/</id>
   
   <author>
     <name>李昱</name>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇博客</title>
-    <link href="https://liyugoodboy.com/2019/12/04/di-yi-pian-bo-ke/"/>
-    <id>https://liyugoodboy.com/2019/12/04/di-yi-pian-bo-ke/</id>
-    <published>2019-12-04T11:23:46.000Z</published>
-    <updated>2019-12-05T08:18:14.373Z</updated>
+    <title>人生匆匆</title>
+    <link href="https://liyugoodboy.github.io/2019/12/08/ren-sheng-cong-cong/"/>
+    <id>https://liyugoodboy.github.io/2019/12/08/ren-sheng-cong-cong/</id>
+    <published>2019-12-08T07:35:50.000Z</published>
+    <updated>2019-12-08T12:04:22.327Z</updated>
     
     <summary type="html">
     
@@ -29,9 +29,51 @@
       
         
         
-          &lt;p&gt;#第一篇博客#&lt;/p&gt;
-&lt;p&gt;##博客说明##&lt;br&gt;此博客使用的Github的page功能，加上Hexo静态系统制作的，当前状态处于刚建成。&lt;br&gt;博客文章使用的是Markdown语法编写。&lt;/p&gt;
-
+          &lt;h1 id=&quot;人生匆匆&quot;&gt;&lt;a href=&quot;#人生匆匆&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Makedown语法介绍</title>
+    <link href="https://liyugoodboy.github.io/2019/12/05/makedown-yu-fa-jie-shao/"/>
+    <id>https://liyugoodboy.github.io/2019/12/05/makedown-yu-fa-jie-shao/</id>
+    <published>2019-12-05T08:29:33.000Z</published>
+    <updated>2019-12-05T08:34:54.947Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Makedown语法介绍&quot;&gt;&lt;a href=&quot;#Makedown语法介绍&quot; class=&quot;headerlink&quot; title=&quot;Makedown语法介绍&quot;&gt;&lt;/a&gt;Makedown语法介绍&lt;/h1&gt;&lt;p&gt;Markdown
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="https://liyugoodboy.github.io/2019/12/04/di-yi-pian-bo-ke/"/>
+    <id>https://liyugoodboy.github.io/2019/12/04/di-yi-pian-bo-ke/</id>
+    <published>2019-12-04T11:23:46.000Z</published>
+    <updated>2019-12-05T08:26:48.960Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第一篇博客&quot;&gt;&lt;a href=&quot;#第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;第一篇博客&quot;&gt;&lt;/a&gt;第一篇博客&lt;/h1&gt;&lt;h2 id=&quot;博客说明&quot;&gt;&lt;a href=&quot;#博客说明&quot; class=&quot;headerlink&quot;
         
       
     

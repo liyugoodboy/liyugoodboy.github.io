@@ -4,11 +4,37 @@
   
     
     <entry>
+      <title>人生匆匆</title>
+      <link href="/2019/12/08/ren-sheng-cong-cong/"/>
+      <url>/2019/12/08/ren-sheng-cong-cong/</url>
+      
+        <content type="html"><![CDATA[<h1 id="人生匆匆"><a href="#人生匆匆" class="headerlink" title="人生匆匆"></a>人生匆匆</h1><p>&emsp;&emsp;一直喜欢追汪涵的综艺，起源应该是从天天向上开始，以前天天向上的天天兄弟还是五个人的时候，基本会每期都不落下。后来人散了，天天向上在芒果台也没有以前的热度，每次想看天天向上都要用搜索框搜索。    </p><p>&emsp;&emsp;如今虽然天天不会每期都看，但还是喜欢追汪涵的综艺，总觉得汪涵现在做的一些节目，真的会会越来越有深度，更贴切的说一直跟随着我们成长的步伐。     </p><p>&emsp;&emsp;节目中当请到以前的嘉宾时，基本都会有一波回忆杀，</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Makedown语法介绍</title>
+      <link href="/2019/12/05/makedown-yu-fa-jie-shao/"/>
+      <url>/2019/12/05/makedown-yu-fa-jie-shao/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Makedown语法介绍"><a href="#Makedown语法介绍" class="headerlink" title="Makedown语法介绍"></a>Makedown语法介绍</h1><p>Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。 </p><h1 id="语法介绍"><a href="#语法介绍" class="headerlink" title="语法介绍"></a>语法介绍</h1><ol><li>标题</li><li>分割线</li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇博客</title>
       <link href="/2019/12/04/di-yi-pian-bo-ke/"/>
       <url>/2019/12/04/di-yi-pian-bo-ke/</url>
       
-        <content type="html"><![CDATA[<p>#第一篇博客#</p><p>##博客说明##<br>此博客使用的Github的page功能，加上Hexo静态系统制作的，当前状态处于刚建成。<br>博客文章使用的是Markdown语法编写。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h1><h2 id="博客说明"><a href="#博客说明" class="headerlink" title="博客说明"></a>博客说明</h2><ol><li>此博客使用的Github的page功能，加上Hexo静态系统制作的，当前状态处于刚建成。<br>博客文章使用的是Markdown语法编写。</li></ol>]]></content>
       
       
       
